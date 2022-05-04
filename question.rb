@@ -8,11 +8,11 @@ class Question
   # end
 
   def self.number1
-    @number1 = rand(50)
+    @number1 = rand(20)
   end
 
   def self.number2
-    @number2 = rand(50)
+    @number2 = rand(20)
   end
 
   def self.answer
